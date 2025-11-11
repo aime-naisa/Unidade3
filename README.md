@@ -17,7 +17,27 @@ Todos os exercícios foram desenvolvidos em **Linguagem Java**, aplicando os fun
 - Operações aritméticas  
 - Estruturas condicionais  
 - Estruturas de repetição (quando aplicável)  
-- Manipulação de variáveis e tipos primitivos  
+- Manipulação de variáveis e tipos primitivos
+
+---
+## 📘 Fundamentos Aplicados
+
+Nesta unidade, os exercícios continuam explorando os **conceitos básicos da lógica de programação**, mas com **problemas mais contextualizados** e **cálculos compostos**.
+
+| Aspecto | Unidade 2 | Unidade 3 |
+|----------|------------|------------|
+| 🧮 **Tipo de operações** | Cálculos simples (soma, subtração, média) | Fórmulas aplicadas (área, volume, velocidade, troco, etc.) |
+| 📥 **Entrada de dados** | Leituras diretas e simples | Leituras múltiplas e com tipos mistos (int, double, String) |
+| 📤 **Saída de dados** | Resultados diretos | Saídas formatadas com unidades de medida e contexto |
+| 🧠 **Lógica aplicada** | Operações isoladas | Situações reais (geometria, economia, física, comércio) |
+| 💡 **Objetivo didático** | Praticar variáveis e operações | Aplicar lógica em problemas do mundo real |
+
+Mesmo assim, todos os programas seguem os **mesmos fundamentos essenciais**:
+- Declaração e uso de variáveis  
+- Entrada de dados com `Scanner`  
+- Processamento aritmético com operadores básicos  
+- Saída de dados com `System.out.println()`  
+- Organização simples e legível do código  
 
 ---
 
@@ -26,4 +46,5 @@ Todos os exercícios foram desenvolvidos em **Linguagem Java**, aplicando os fun
 **FURB – Universidade Regional de Blumenau**  
 **Curso:** Bacharelado em Sistemas de Informação  
 **Disciplina:** Introdução à Programação (1º semestre)
+
 
